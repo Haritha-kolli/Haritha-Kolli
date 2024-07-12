@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**Haritha-kolli/Haritha-Kolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ ✨ **I'm Haritha Kolli** ✨ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technical Skills : Python, SQL, AWS, Tableau, PowerBI, Snowflake
+
+- 🔭 I’m currently working on enhancing my skills.
+- 🌱 I’m currently learning advanced data analytics techniques, LLMs, Prompt Engineering
+- 👯 I’m looking to collaborate on data analytics projects.
+- 💬 Ask me about data analysis, machine learning, data visualization, and data engineering
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rama-k-info)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I'm a photographer.
+
+📖 My Work:
+
+#### Data Visualization 
+- [Customer Segmentation Analysis](https://github.com/Haritha-kolli/DataAnalytics-Visualizations-Showcase/blob/main/CustomerSegmentation_ClusterAnalysis.pdf)
+- [Netflix Content Analysis](https://github.com/Haritha-kolli/DataAnalytics-Visualizations-Showcase/blob/main/NetflixContentAnalysis_DataAnalysis_Tableau.pdf)
+
+
+
+#### CHATBOT using RASA
+- [Foodie Restaurant Chatbot](https://github.com/Haritha-kolli/RASA_FoodieChatbot)
+
+
+
+
+
