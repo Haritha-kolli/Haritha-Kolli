@@ -11,7 +11,6 @@ Technical Skills : Python, SQL, AWS, Tableau, PowerBI, Snowflake
 - 💬 Ask me about data analysis, machine learning, data visualization, and data engineering
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rama-k-info)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm a photographer.
 
 📖 My Work:
 
