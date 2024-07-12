@@ -19,6 +19,8 @@ Technical Skills : Python, SQL, AWS, Tableau, PowerBI, Snowflake
 - [Customer Segmentation Analysis](https://github.com/Haritha-kolli/DataAnalytics-Visualizations-Showcase/blob/main/CustomerSegmentation_ClusterAnalysis.pdf)
 - [Netflix Content Analysis](https://github.com/Haritha-kolli/DataAnalytics-Visualizations-Showcase/blob/main/NetflixContentAnalysis_DataAnalysis_Tableau.pdf)
 
+#### Machine Learning 
+- [Product Recommendation System](https://github.com/Haritha-kolli/RecommendationSystems)
 
 
 #### CHATBOT using RASA
