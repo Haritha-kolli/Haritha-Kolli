@@ -3,7 +3,7 @@
 
  ✨ **I'm Haritha Kolli** ✨ 
 
-Technical Skills : Python, SQL, AWS, Tableau, PowerBI, Snowflake
+Technical Skills : Python, SQL, Azure, AWS, Tableau, PowerBI, Snowflake, Google BigQuery
 
 - 🔭 I’m currently working on enhancing my skills.
 - 🌱 I’m currently learning advanced data analytics techniques, LLMs, Prompt Engineering
