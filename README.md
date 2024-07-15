@@ -21,6 +21,7 @@ Technical Skills : Python, SQL, AWS, Tableau, PowerBI, Snowflake
 #### Data Analytics and Machine Learning 
 - [Product Recommendation System](https://github.com/Haritha-kolli/RecommendationSystems)
 - [Breast Cancer Prediction](https://github.com/Haritha-kolli/Breast-Cancer-Prediction)
+- [Lending Club Investment Analysis](https://github.com/Haritha-kolli/Exploratory-Data-Analysis/blob/master/EDA_LendingClub%20Case%20Study.pdf)
 
 #### Data Engineering
 
