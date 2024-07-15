@@ -18,9 +18,13 @@ Technical Skills : Python, SQL, AWS, Tableau, PowerBI, Snowflake
 - [Customer Segmentation Analysis](https://github.com/Haritha-kolli/DataAnalytics-Visualizations-Showcase/blob/main/CustomerSegmentation_ClusterAnalysis.pdf)
 - [Netflix Content Analysis](https://github.com/Haritha-kolli/DataAnalytics-Visualizations-Showcase/blob/main/NetflixContentAnalysis_DataAnalysis_Tableau.pdf)
 
-#### Machine Learning 
+#### Data Analytics and Machine Learning 
 - [Product Recommendation System](https://github.com/Haritha-kolli/RecommendationSystems)
+- [Breast Cancer Prediction](https://github.com/Haritha-kolli/Breast-Cancer-Prediction)
 
+#### Data Engineering
+
+ - [Sales Data Aggregation Yearly -Transforming Files Using Severless SQL Pool - Azure Synapse Analytics](https://github.com/Haritha-kolli/Azure-Data-Engineering/tree/main/Sales-Data-Aggregation-Yearly)
 
 #### CHATBOT using RASA
 - [Foodie Restaurant Chatbot](https://github.com/Haritha-kolli/RASA_FoodieChatbot)
